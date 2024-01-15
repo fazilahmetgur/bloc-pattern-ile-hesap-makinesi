@@ -1,4 +1,7 @@
 # bloc_pattern_kullanimi
+# flutter_bloc paketi import edildi, cubit sınıfı kullanıldı, repository sınıfı oluşturuldu
+# x: @fazilahmetgur
+
 
 A new Flutter project.
 
